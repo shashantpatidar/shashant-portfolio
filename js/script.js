@@ -328,62 +328,77 @@ document.addEventListener('DOMContentLoaded', function () {
           <div class="mySlides">
             <div class="numbertext">1 / 15</div>
             <img src="img/commercial1/aryan.jpg" >
+            <p class="caption">Aryan, Student</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">2 / 15</div>
             <img src="img/commercial1/bhaiya.jpg" >
+            <p class="caption">a boy, Photographer</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">3 / 15</div>
             <img src="img/commercial1/amit.jpg" >
+            <p class="caption">Amit, Accountant</p>
           </div>          
           <div class="mySlides">
             <div class="numbertext">4 / 15</div>
             <img src="img/commercial1/aadarsh.jpg" >
+            <p class="caption">Aadarsh, Student</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">5 / 15</div>
             <img src="img/commercial1/adarsh.jpg" >
+            <p class="caption">Adarsh, Stock Market</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">6 / 15</div>
             <img src="img/commercial1/ballu.jpg" >
+            <p class="caption">Shashant, Photographer</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">7 / 15</div>
             <img src="img/commercial1/raghav.jpg" >
+            <p class="caption">raghav, CA</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">8 / 15</div>
             <img src="img/commercial1/rajveer.jpg" >
+            <p class="caption">Rajveer, Baccha</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">9 / 15</div>
             <img src="img/commercial1/adarsh2.jpg" >
+            <p class="caption">Adarsh, Stock Market</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">10 / 15</div>
             <img src="img/commercial1/amit2.jpg" >
+            <p class="caption">Amit, Student</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">11 / 15</div>
             <img src="img/commercial1/aryan2.jpg" >
+            <p class="caption">Aryan, Student</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">12 / 15</div>
             <img src="img/commercial1/raghav.jpg" >
+            <p class="caption">Raghav, Stock Market</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">13 / 15</div>
             <img src="img/commercial1/amit3.jpg" >
+            <p class="caption">Adarsh, Stock Market</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">14 / 15</div>
             <img src="img/commercial1/raghav4.jpg" >
+            <p class="caption">Adarsh, Stock Market</p>
           </div>
           <div class="mySlides">
             <div class="numbertext">15 / 15</div>
             <img src="img/commercial1/raghav3.jpg" >
+            <p class="caption">Adarsh, Stock Market</p>
           </div>
 
           
@@ -496,21 +511,25 @@ document.addEventListener('DOMContentLoaded', function () {
           <div class="mySlides">
             <div class="numbertext">1 / 4</div>
             <img src="img/festival/ambika_mata.jpg" >
+            <p class="caption">Shree Ambika Dham, Karnawad</p>
           </div>
 
           <div class="mySlides">
             <div class="numbertext">2 / 4</div>
             <img src="img/commercial1/raghav.jpg" >
+            <p class="caption">Raghav, CA, Karnawad</p>
           </div>
 
           <div class="mySlides">
             <div class="numbertext">3 / 4</div>
             <img src="img/commercial1/raghav3.jpg" >
+            <p class="caption">Raghav, CA, Karnawad</p>
           </div>
           
           <div class="mySlides">
             <div class="numbertext">4 / 4</div>
             <img src="img/others/11.jpg" >
+            <p class="caption">Poster Design, Bakery Design</p>
           </div>
           
           <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -518,6 +537,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+         
+        
           
         </div>
       </div>
